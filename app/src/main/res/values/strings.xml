@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_login">Iniciar sesión</string>
+    <string name="dont_have_account">¿No tienes una cuenta?</string>
+    <string name="create_account">Crea una aquí</string>
+    <string name="email">Correo</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="toolbar_title_create_account">Crear cuenta</string>
+    <string name="title_tab_search">Buscar</string>
+    <string name="title_tab_home">Home</string>
+    <string name="title_tab_profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
